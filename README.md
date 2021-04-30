@@ -11,7 +11,7 @@
 We are using the provided csv file which is a subset of the variables collected for the *General Social Survey* (GSS) 
 
 ## Report
-This project can be found as a report(https://github.com/darienlizano/Revolving-Door-Consulting-Proj/blob/main/Project1Final_without_output_code.pdf) in a pdf file
+This project can be found as a [report](https://github.com/darienlizano/Revolving-Door-Consulting-Proj/blob/main/Project1Final_without_output_code.pdf) in a pdf file
 
 ## Data Cleaning
 Luckily, this dataset was fairly clean. The only cleaning I needed to do was to remove missing variables within each of my objects created

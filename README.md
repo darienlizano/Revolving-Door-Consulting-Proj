@@ -66,3 +66,14 @@ For this questions, I am specifically looking for trends in the visualizations, 
 #### Happiness
 ![alt.text](https://github.com/darienlizano/Revolving-Door-Consulting-Proj/blob/main/hrs_health.png)
 
+### Question 4: What is the relationship between the number of hours spouses usually work each week? That is, as one spouse works more, does that mean the other spouse works less? Or, vice versa?
+For this question, I obsevered that the relevant variables are both numerical. Therefore, the best graph choice will be a scatterplot to understadn the relationship between the number of hours spouses usually work each week, and vice versa
+
+**Note:** I used the geom_jitter function due to the points being over-plotted
+
+![alt.text](https://github.com/darienlizano/Revolving-Door-Consulting-Proj/blob/main/hrs.spouse.png)
+
+### Question 5: Does the amount of time that people spend on email each week vary as a function of the highest degree that they’ve earned? That is, do people with more education, have jobs where they spend more time on email?
+
+![alt.text]()
+

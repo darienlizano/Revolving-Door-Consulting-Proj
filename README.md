@@ -34,6 +34,6 @@ By simply using the count() function, we are able to see that the final sample s
 To understand the general demographic of this survey, I visualized the variables race, sex, age, and marital status
 
 ##### Race
-![alt.text](https://github.com/darienlizano/Revolving-Door-Consulting-Proj/commit/f939a1d9a5caf9d17fbf47a4a151f1faccfc1937)
+![alt.text](https://github.com/darienlizano/Revolving-Door-Consulting-Proj/blob/main/distribution_of_race.png)
 
 

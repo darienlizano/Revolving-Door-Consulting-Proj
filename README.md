@@ -5,7 +5,7 @@
 
 ## Language and Resources Used
 **R**
-**Packages**: dpylr, readr, ggplot2, viridis, RColorBrewer, ggthemes, ggrepel
+**Packages**: dpylr, readr, ggplot2, viridis, RColorBrewer, ggthemes
 
 ## Dataset
 We are using the provided csv file which is a subset of the variables collected for the *General Social Survey* (GSS) 

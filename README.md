@@ -45,5 +45,24 @@ To understand the general demographic of this survey, I visualized the variables
 ##### Marital Status
 ![alt.text](https://github.com/darienlizano/Revolving-Door-Consulting-Proj/blob/main/distribution_of_martstatus.png)
 
+### Question 2: Does the sample include a fair representation of race within each region of the country?
+![alt.text](https://github.com/darienlizano/Revolving-Door-Consulting-Proj/blob/main/race_within_region.png)
 
+### Question 3: Is the number of hours usually worked in a week related to any of the following: trouble sleeping, job stress, job satisfaction, health, and happiness?
+For this questions, I am specifically looking for trends in the visualizations, as well as looking at the summary statistics for insights.
+
+#### Trouble Sleeping
+![alt.text](https://github.com/darienlizano/Revolving-Door-Consulting-Proj/blob/main/hrs_sleeping.png)
+
+#### Job Stress
+![alt.text](https://github.com/darienlizano/Revolving-Door-Consulting-Proj/blob/main/hrs_stress.png)
+
+#### Job Satisifaction
+![alt.text](https://github.com/darienlizano/Revolving-Door-Consulting-Proj/blob/main/hrs_satis.png)
+
+#### Health
+![alt.text](https://github.com/darienlizano/Revolving-Door-Consulting-Proj/blob/main/hrs_satis.png)
+
+#### Happiness
+![alt.text](https://github.com/darienlizano/Revolving-Door-Consulting-Proj/blob/main/hrs_health.png)
 

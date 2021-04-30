@@ -45,8 +45,8 @@ There were several visulizations that were created to answer the questions that 
 ### Distribution Of Race Within Each Region Using A Stacked-Bar Chart
 ![alt.text](https://github.com/darienlizano/Revolving-Door-Consulting-Proj/blob/main/race_within_region.png)
 
-### Relationship Between The Hours One Usually Works And Their Difficulty In Sleeping
-![alt.text](https://github.com/darienlizano/Revolving-Door-Consulting-Proj/blob/main/hrs_sleeping.png)
+### Relationship Between The Hours One Usually Works And Their Overall Health
+![alt.text](https://github.com/darienlizano/Revolving-Door-Consulting-Proj/blob/main/hrs_healthplot.png)
 
 ### Relationship Between The Hours One Usually Works And The Hours Their Spouse Usually Works
 ![alt.text](https://github.com/darienlizano/Revolving-Door-Consulting-Proj/blob/main/hrs.spouse.png)

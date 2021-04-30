@@ -36,4 +36,14 @@ To understand the general demographic of this survey, I visualized the variables
 ##### Race
 ![alt.text](https://github.com/darienlizano/Revolving-Door-Consulting-Proj/blob/main/distribution_of_race.png)
 
+##### Sex
+![alt.text](https://github.com/darienlizano/Revolving-Door-Consulting-Proj/blob/main/distribution_of_sex.png)
+
+##### Age
+![alt.text](https://github.com/darienlizano/Revolving-Door-Consulting-Proj/blob/main/distribution_of_age.png)
+
+##### Marital Status
+![alt.text](https://github.com/darienlizano/Revolving-Door-Consulting-Proj/blob/main/distribution_of_martstatus.png)
+
+
 

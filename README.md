@@ -39,7 +39,7 @@ After importing the dataset, I needed to transform the data to be able to analyz
 ## Exploratory Data Analysis 
 There were several visulizations that were created to answer the questions that were asked. A few examples of my graphs will be shown below. All graphs will be presented in my [report](https://github.com/darienlizano/Revolving-Door-Consulting-Proj/blob/main/Project1Final_without_output_code.pdf).
 
-# Findings 
+## Findings 
 * The general demographic contains a mix of groups from backgrounds such as: sex, socioeconomic backgrounds, origin, race, and age.
 * The majority demographic are Females who identify as White, within the ages of 30-40, who are currently married
 * The representation of race is not fair within this sample since the majority of recipients identify as White

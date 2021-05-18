@@ -23,13 +23,10 @@ The following are the proposed question by the nonprofit that my firm seeked ans
 5.  Does the amount of time that people spend on email each week vary as a function of the highest degree that they’ve earned? That is, do people with more education, have jobs where they spend more time on email?
 6.  Do people who live alone work more than people who live with others in their household?
 7.  Is fear of walking in one’s own neighborhood at night related to any of the following: current family income, age, sex, race, or region?
-
-## A Bonus Question:
-Towards the completion of my analysis, what piqued my interest was to see if there exists a relationship between one's current family income and their highest degree earned. I took the initiative to analyze this for the nonprofit, for I believe it may be useful for their research.
-
+8.  Is there a relationship between one's current family income and their hgihest degree earned?
 
 ## Data Cleaning
-Luckily, this dataset was fairly clean. The only cleaning I needed to do was to remove missing variables within each of my objects created
+Luckily, this dataset was fairly clean. The only data cleaning performed was to remove missing variables within each of my objects created
 
 ## Data Wrangling
 After importing the dataset, I needed to transform the data to be able to analyze it for the questions that were being asked. This was done in the following steps:
@@ -42,14 +39,13 @@ After importing the dataset, I needed to transform the data to be able to analyz
 ## Exploratory Data Analysis 
 There were several visulizations that were created to answer the questions that were asked. A few examples of my graphs will be shown below. All graphs will be presented in my [report](https://github.com/darienlizano/Revolving-Door-Consulting-Proj/blob/main/Project1Final_without_output_code.pdf).
 
-### Distribution Of Race Within Each Region Using A Stacked-Bar Chart
-![alt.text](https://github.com/darienlizano/Revolving-Door-Consulting-Proj/blob/main/race_within_region.png)
-
-### Relationship Between The Hours One Usually Works And Their Overall Health
-![alt.text](https://github.com/darienlizano/Revolving-Door-Consulting-Proj/blob/main/hrs_healthplot.png)
-
-### Relationship Between The Hours One Usually Works And The Hours Their Spouse Usually Works
-![alt.text](https://github.com/darienlizano/Revolving-Door-Consulting-Proj/blob/main/hrs.spouse.png)
-
-### Relationship Between's One's Current Family Income And Their Fear Of Walking Alone In Their Neighborhood At Night
-![alt.text](https://github.com/darienlizano/Revolving-Door-Consulting-Proj/blob/main/famincome_walkingnight.png)
+# Findings 
+* The general demographic contains a mix of groups from backgrounds such as: sex, socioeconomic backgrounds, origin, race, and age.
+* The majority demographic are Females who identify as White, within the ages of 30-40, who are currently married
+* The representation of race is not fair within this sample since the majority of recipients identify as White
+* There exists a relation between hours that someone usually works per week and difficulty sleeping, Stress caused by their jobs, job satisfaction, health, and happiness
+* A relation exists between the hours the surveyee and their spouses work per week
+* A relation exists one's highest degree earned and the amount of time they spend on their emails
+* A relation exists between average hours worked and their household size 
+* A relation exists between a fear of walking alone in their neighborhood at night and age and sex, but not with current family income and region
+* A relation exist between current family incomes and highest degree earned

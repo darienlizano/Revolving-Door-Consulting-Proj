@@ -23,7 +23,7 @@ The following are the proposed question by the nonprofit that my firm seeked ans
 5.  Does the amount of time that people spend on email each week vary as a function of the highest degree that they’ve earned? That is, do people with more education, have jobs where they spend more time on email?
 6.  Do people who live alone work more than people who live with others in their household?
 7.  Is fear of walking in one’s own neighborhood at night related to any of the following: current family income, age, sex, race, or region?
-8.  Is there a relationship between one's current family income and their hgihest degree earned?
+8.  Is there a relationship between one's current family income and their highest degree earned?
 
 ## Data Cleaning
 Luckily, this dataset was fairly clean. The only data cleaning performed was to remove missing variables within each of my objects created
